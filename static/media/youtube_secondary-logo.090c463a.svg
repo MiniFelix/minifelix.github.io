@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_3" data-name="Ellipse 3" cx="55" cy="55" r="55" transform="translate(503 643)" fill="#fff" stroke="#707070" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="Group_15" data-name="Group 15" transform="translate(-503 -643)">
+    <g id="Mask_Group_2" data-name="Mask Group 2" clip-path="url(#clip-path)">
+      <g id="youtube" transform="translate(530.373 678.997)">
+        <path id="Path_2" data-name="Path 2" d="M53.643,5.841a6.773,6.773,0,0,0-4.827-4.7C44.529,0,27.385,0,27.385,0S10.241,0,5.955,1.1A6.91,6.91,0,0,0,1.128,5.841C0,10.013,0,18.664,0,18.664s0,8.7,1.128,12.823a6.775,6.775,0,0,0,4.828,4.7c4.331,1.142,21.43,1.142,21.43,1.142s17.144,0,21.43-1.1a6.773,6.773,0,0,0,4.828-4.7c1.128-4.172,1.128-12.823,1.128-12.823s.045-8.7-1.128-12.867Zm0,0" transform="translate(0)" fill="#fff"/>
+        <path id="Path_3" data-name="Path 3" d="M44.036,36.734l13.356-7.358L44.036,22.018Zm0,0" transform="translate(-21.908 -10.712)" fill="#3d3d3d"/>
+      </g>
+    </g>
+    <text id="_2" data-name="2" transform="translate(574 677)" fill="#fff" font-size="15" font-family="Aileron-Heavy, Aileron" font-weight="800" letter-spacing="0.2em"><tspan x="0" y="0">2</tspan></text>
+  </g>
+</svg>
