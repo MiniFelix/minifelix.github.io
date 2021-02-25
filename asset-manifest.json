@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.1b6e9eda.chunk.css",
+    "main.css": "/static/css/main.b0688fa5.chunk.css",
     "main.js": "/static/js/main.4a3356d2.chunk.js",
     "main.js.map": "/static/js/main.4a3356d2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b165edf0.js",
@@ -12,7 +12,7 @@
     "static/js/3.0a3f8d5b.chunk.js.map": "/static/js/3.0a3f8d5b.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.cc77c331.chunk.css.map": "/static/css/2.cc77c331.chunk.css.map",
-    "static/css/main.1b6e9eda.chunk.css.map": "/static/css/main.1b6e9eda.chunk.css.map",
+    "static/css/main.b0688fa5.chunk.css.map": "/static/css/main.b0688fa5.chunk.css.map",
     "static/js/2.fa0c1f00.chunk.js.LICENSE.txt": "/static/js/2.fa0c1f00.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Aileron-Regular.acd900a1.otf",
     "static/media/Contact.scss": "/static/media/arrow-up.e0925294.svg",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.b165edf0.js",
     "static/css/2.cc77c331.chunk.css",
     "static/js/2.fa0c1f00.chunk.js",
-    "static/css/main.1b6e9eda.chunk.css",
+    "static/css/main.b0688fa5.chunk.css",
     "static/js/main.4a3356d2.chunk.js"
   ]
 }
